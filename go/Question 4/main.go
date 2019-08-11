@@ -9,6 +9,7 @@ func main() {
 }
 
 func Solution(A []int) int {
+
 	for i := 0; i < len(A); i++ {
 
 	}
